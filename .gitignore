@@ -1,0 +1,5 @@
+src/*.o
+*.o
+build/
+.build_cache
+docs/
